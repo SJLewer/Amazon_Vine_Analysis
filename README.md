@@ -23,7 +23,7 @@ _Background:_ Numerical star ratings in customer reviews tend to be disporportio
 
   ![NFive](https://user-images.githubusercontent.com/90986041/148711314-033ffb54-01b6-4bd8-a5db-544200422d03.png)
 
-#### What percentage of reviews were 5 stars?
+#### What percentage of the total reviews were 5 stars?
 - Vine = 38.2%
 
   ![YPercent](https://user-images.githubusercontent.com/90986041/148711379-0d4d233c-5b26-45c8-8765-a118ed2673ce.png)
@@ -36,7 +36,7 @@ _Background:_ Numerical star ratings in customer reviews tend to be disporportio
 ## Summary
 Based upon the low percentage (38.2%) of 5-star ratings from Vine program members, there does not appear to be positivity bias for reviews in the Vine program.  
 
-_Additional Analysis:_ The above results include ratings of products that may not have been actually purchased.  Determine if actual purchases (based on verified_purchase = "Y") change the 5-star rating percentages of reviews in the Vine program.
+_Additional Analysis:_ The above results include ratings of products that may not have been actually purchased.  Determine if actual purchases change the 5-star rating percentages of reviews in the Vine program (include filter: verified_purchase = "Y").
 ___
 
 _Dataset_:  Amazon Review Datasets: Pet Products
