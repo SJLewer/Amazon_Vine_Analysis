@@ -34,7 +34,7 @@ _Background:_ Numerical star ratings in customer reviews tend to be disporportio
 
 
 ## Summary
-Based upon the low percentage (38.2%) of 5-star ratings from Vine program members, there does not appear to be positivity bias for reviews in the Vine program.  
+Based upon the low percentage (38.2%) of 5-star ratings from Vine program members and a lower percentage of 5-star ratings compared to non-Vine's 54.5%, there does not appear to be positivity bias for reviews in the Vine program.
 
 _Additional Analysis:_ The above results include ratings of products that may not have been actually purchased.  Determine if actual purchases change the 5-star rating percentages of reviews in the Vine program (include filter: verified_purchase = "Y").
 ___
